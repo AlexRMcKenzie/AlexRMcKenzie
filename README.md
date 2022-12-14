@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Web3, React, SQL**
 
-- 📫 How to reach me **alexmckenzie1990@gmail.com**
+- 📫 Reach me at **alexmckenzie1990@gmail.com**
 
-- ⚡ Fun fact **I love cats and jazz**
+- ⚡ **I love cats and jazz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
