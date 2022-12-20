@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex McKenzie</h1>
 <h3 align="center">A full-stack developer from Nottingham, UK</h3>
 
-- 🌱 I’m currently learning **Web3, React, SQL**
+- 🌱 I’m currently learning **Web3 fundamentals, React, SQL**
 
 - 📫 Reach me at **alexmckenzie1990@gmail.com**
 
-- ⚡ **I love cats and jazz**
+- ⚡ I **love cats** and **jazz**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
